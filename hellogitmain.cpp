@@ -16,6 +16,7 @@ __fastcall TForm2::TForm2(TComponent* Owner)
 //---------------------------------------------------------------------------
 void __fastcall TForm2::Button1Click(TObject *Sender)
 {
+//Dit is een test
 Panel1->Caption = "Hello master editor "+Edit1->Text;
 }
 //---------------------------------------------------------------------------
