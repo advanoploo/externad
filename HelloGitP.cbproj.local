@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013-01-14 17:33:12.000.401,=C:\Users\Ad\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2013-01-14 17:33:12.000.832,=C:\Users\Ad\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2013-01-14 17:34:01.000.383,=C:\Users\Ad\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2013-01-14 17:34:01.000.364,=C:\Users\Ad\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2013-07-09 10:40:35.377,=C:\Users\Ad\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2013-07-09 10:40:35.396,=C:\Users\Ad\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2013-07-09 10:41:08.462,E:\gitgui\hellogitmain.dfm=C:\Users\Ad\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2013-07-09 10:41:08.462,E:\gitgui\hellogitmain.h=C:\Users\Ad\Documents\RAD Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2013-07-09 10:41:08.462,E:\gitgui\hellogitmain.cpp=C:\Users\Ad\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2013-07-09 10:41:33.933,E:\gitgui\hellogit.h=C:\Users\Ad\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2013-07-09 10:42:17.051,E:\gitgui\HelloGitP.cbproj=C:\Users\Ad\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
