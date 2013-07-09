@@ -37,12 +37,5 @@ object Form2: TForm2
       Height = 21
       TabOrder = 1
     end
-    object Edit2: TEdit
-      Left = 327
-      Top = 90
-      Width = 121
-      Height = 21
-      TabOrder = 2
-    end
   end
 end
